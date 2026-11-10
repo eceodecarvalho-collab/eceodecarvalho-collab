@@ -9,4 +9,4 @@ Estudiante del **Máster en Desarrollo Web Full Stack** (Conquer Blocks). Empiez
 - Formación en Biomedicina (equivalencia en España) y Máster en Tecnología y Seguridad Alimentaria (en curso).
 - Busco oportunidades junior / prácticas (también QA y laboratorio de alimentos).
 - Inglés y español; CELGA 2 (gallego).
-Gracias por pasar por mi perfil.
+
