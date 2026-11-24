@@ -1,3 +1,4 @@
+
 # Eulalia Carvalho
 Estudiante del **Máster en Desarrollo Web Full Stack** (Conquer Blocks). Empiezo con lógica, Python y Linux, y voy subiendo aquí mis prácticas.
 ## Repositorios
@@ -9,4 +10,8 @@ Estudiante del **Máster en Desarrollo Web Full Stack** (Conquer Blocks). Empiez
 - Formación en Biomedicina (equivalencia en España) y Máster en Tecnología y Seguridad Alimentaria (en curso).
 - Busco oportunidades junior / prácticas (también QA y laboratorio de alimentos).
 - Inglés y español; CELGA 2 (gallego).
+- [galalia-pedidos](https://github.com/eceodecarvalho-collab/galalia-pedidos): proyecto de pedidos para Galalia Algas, mi futura empresa de algas marinas 🌊.
+## 📫 Contacto
+- [LinkedIn](https://www.linkedin.com/in/eulalia-ceo-de-carvalho-834685380)
+- X: [@de_carvalh77533](https://x.com/de_carvalh77533)
 
